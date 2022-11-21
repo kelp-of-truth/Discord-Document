@@ -97,7 +97,7 @@ client.on("ready", ()=>{
 
 ---
 ### 関連リンク
-- [Events]()
+- [Events](https://github.com/kelp-of-truth/Discord-Document/tree/kelp-of-truth-discord.js-document/document/Events)
 
 
 ---
