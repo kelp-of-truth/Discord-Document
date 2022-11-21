@@ -93,8 +93,13 @@ client.on("ready", ()=>{
 |NUMBER|10|-2<sup>53</sup>から2<sup>53</sup>までの任意の数（`double型`）|
 |ATTACHMENT|11|アタッチメント|
 
+
+
 ---
+### 関連リンク
+- [Events]()
 
 
+---
 ### 参考にしたサイト
 - [Discord Developer Document](https://discord.com/developers/docs/)
