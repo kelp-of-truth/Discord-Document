@@ -94,4 +94,4 @@ client.on("ready", ()=>{
 
 
 ### 参考にしたサイト
-[](https://discord.com/developer/docs/ "Discord Developer Document")
+- [Discord Developer Document](https://discord.com/developer/docs/)
