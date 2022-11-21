@@ -7,10 +7,10 @@
 <br></br>
 
 ## スラッシュコマンドの読み込み
-’’’js
+```js
 const data=
 
 client.on("ready", ()=>{
     client.application.commands.set(data);
 })
-’’’
+```
