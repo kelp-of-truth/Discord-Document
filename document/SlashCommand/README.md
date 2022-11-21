@@ -42,16 +42,18 @@ client.on("ready", ()=>{
         "description":"アイテムを購入します",
         "options":[
             {
-                "name":"item name",
+                "name":"item_name",
                 "type":3,
-                "description":"アイテムの名前",
+                "description":"購入するアイテムの名前",
                 "required":true,
                 "choices":[
                     {
+                        // りんご
                         "name":"apple",
                         "value":"apple"
                     },
                     {
+                        // ぶどう
                         "name":"grapes",
                         "value":"grapes"
                     }
@@ -87,3 +89,9 @@ client.on("ready", ()=>{
 |CHANNEL|9|サーバーにあるロールとサーバーにいるユーザーが候補として表示される<br>**`choices`を書く必要は無い**|
 |NUMBER|10|-2<sup>53</sup>から2<sup>53</sup>までの任意の数（`double型`）|
 |ATTACHMENT|11|アタッチメント|
+
+---
+
+
+### 参考にしたサイト
+[](https://discord.com/developer/docs/, "Discord Developer Document")
