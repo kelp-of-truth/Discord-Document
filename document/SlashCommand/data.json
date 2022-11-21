@@ -1,0 +1,26 @@
+[
+    {
+        "name":"buy",
+        "description":"アイテムを購入します",
+        "options":[
+            {
+                "name":"item_name",
+                "type":3,
+                "description":"購入するアイテムの名前",
+                "required":true,
+                "choices":[
+                    {
+                        // りんご
+                        "name":"apple",
+                        "value":"apple"
+                    },
+                    {
+                        // ぶどう
+                        "name":"grapes",
+                        "value":"grapes"
+                    }
+                ]
+            }
+        ]
+    }
+]
