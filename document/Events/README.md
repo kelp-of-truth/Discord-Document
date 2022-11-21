@@ -65,3 +65,10 @@ client.on("イベント名", (変数)=>{
 |guildMemberAdd|サーバーに新しくメンバーが参加したとき|
 |guildMemberChunk|メンバーのチャンクを受信したとき|
 |messageUpdate|メッセージが編集されたとき|
+
+
+<br></br>
+
+
+[参考リンク](https://discord.js.org/#/)
+
