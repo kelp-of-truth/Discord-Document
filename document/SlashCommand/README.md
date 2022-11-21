@@ -48,12 +48,12 @@ client.on("ready", ()=>{
                 "required":true,
                 "choices":[
                     {
-                        /* りんご*/
+                        // りんご
                         "name":"apple",
                         "value":"apple"
                     },
                     {
-                        /* ぶどう*/
+                        // ぶどう
                         "name":"grapes",
                         "value":"grapes"
                     }
