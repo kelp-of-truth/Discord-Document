@@ -70,5 +70,6 @@ client.on("イベント名", (変数)=>{
 <br></br>
 
 ---
-- [参考リンク](https://discord.js.org/#/)
+参考リンク
+- [DISCORD.JS.ORG](https://discord.js.org/#/)
 
