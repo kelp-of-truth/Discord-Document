@@ -35,6 +35,7 @@ client.on("ready", ()=>{
 
 コマンドの項目を追加する場合は、JSONを次のように書き、それを読み込む。
 
+
 ```json
 [
     {
@@ -63,6 +64,8 @@ client.on("ready", ()=>{
     }
 ]
 ```
+<br>
+[data.json](https://github.com/kelp-of-truth/Discord-Document/blob/a47d2317bd3b70d071fc1af5934383d5cb9fcefd/document/SlashCommand/data.json)
 
 **options**<br>
 - ``name``：オプションの名前
