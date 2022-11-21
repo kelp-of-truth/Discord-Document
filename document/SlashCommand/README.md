@@ -64,7 +64,7 @@ client.on("ready", ()=>{
     }
 ]
 ```
-<br>
+　
 [data.json](https://github.com/kelp-of-truth/Discord-Document/blob/a47d2317bd3b70d071fc1af5934383d5cb9fcefd/document/SlashCommand/data.json)
 
 **options**<br>
