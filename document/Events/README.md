@@ -65,6 +65,15 @@ client.on("イベント名", (変数)=>{
 |guildMemberAdd|サーバーに新しくメンバーが参加したとき|
 |guildMemberChunk|メンバーのチャンクを受信したとき|
 |messageUpdate|メッセージが編集されたとき|
+|shardResume|シャードが正常に再開したとき|
+|threadUpdate|スレッドが更新されたとき|
+|shardReady|シャードの準備が完了したとき|
+|shardDisconnect|シャードが切断されたとき|
+|shardReconnecting|シャードが再接続を試みているとき|
+|invalidated|クライアントが無効になったとき|
+|ready|クライアントの準備が完了したとき|
+|shardError|シャードのWebSocketで接続エラーが発生したとき|
+|error|クライアントでエラーが発生したとき|
 
 
 <br></br>
