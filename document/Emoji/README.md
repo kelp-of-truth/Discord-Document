@@ -29,3 +29,13 @@ client.on("messageCreate", (msg)=>{
 カスタム絵文字を送信する場合は、絵文字の名前を`:`で囲い、その後ろにidを入れる
  
 **注意：アニメーション絵文字はNitoroを購入していないと使えません**
+
+
+
+---
+### 関連リンク
+
+
+---
+### 参考リンク
+- [DISCORD.JS.ORG](https://discord.js.org/)
