@@ -1,4 +1,5 @@
 # discord.jsのイベント一覧
+![](https://img.shields.io/badge/discord.js-v16.9.0-blue "discord.js:ver-16.9.0")
 <br></br>
 
 
