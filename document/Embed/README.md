@@ -21,6 +21,6 @@ client.on("messageCreate", (msg)=>{
 })
 ```
 
-<video style="width: 50vw;" controls playsinline muted="true" src="https://github.com/kelp-of-truth/Discord-Document/blob/kelp-of-truth-discord.js-document/document/src/video/embed_1.mp4?raw=true" >
+<video width="540px" controls playsinline muted="true" src="https://github.com/kelp-of-truth/Discord-Document/blob/kelp-of-truth-discord.js-document/document/src/video/embed_1.mp4?raw=true" >
 ビデオを読み込めませんでした
 </video>
